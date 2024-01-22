@@ -1,5 +1,9 @@
 ### Regras da aplicação
 
+Projeto feito utilizando Python com POO
+
+### Regras da aplicação
+
 * A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
 * Deve ser possível adicionar um contato
   * O contato pode ter os dados:
